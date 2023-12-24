@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alexgpareja
 - 👀 I’m interested in tecnology, programming, development, videogames.
 - 🌱 I’m currently learning a Certificate of Higher Education of Multiplatform Application's Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on https://www.linkedin.com/in/alexgpareja/
 
 <!---
 alexgpareja/alexgpareja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
